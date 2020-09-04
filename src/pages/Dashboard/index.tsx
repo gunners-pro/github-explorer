@@ -1,12 +1,12 @@
 import React from 'react';
 
-// import { Container } from './styles';
+import { Container, Title } from './styles';
 
 const Dashboard: React.FC = () => {
   return (
-    <div>
-      <h2>Dashboard</h2>
-    </div>
+    <Container>
+      <Title>Explore repositórios no Github</Title>
+    </Container>
   );
 };
 
