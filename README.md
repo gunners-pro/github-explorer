@@ -13,6 +13,6 @@ Github-explorer is a simple application that lists the github api repositories.
 ##### PrintScreen
 
 <p align="center">
-  <img src="app_github.png" width="350" title="app_github">
-  <img src="app_github2.png" width="350" title="app_github2">
+  <img src="app_github.png" width="700" title="app_github">
+  <img src="app_github2.png" width="700" title="app_github2">
 </p>
